@@ -3,6 +3,12 @@ news letter web application which enables users to sign people up to your news a
 <br>
 This applicaton uses mailchimp API
 <br>
-Here are the screenshots of the signup page and the conformation page
+Here are the screenshots of the signup page and the confirmation page
 <br>
-
+Sign Up page
+<br>
+![](news-letter/blob/master/signup%20ss.png)
+<br>
+confirmation page
+<br>
+![](news-letter/blob/master/success%20ss.png)
