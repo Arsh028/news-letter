@@ -6,9 +6,6 @@ This applicaton uses mailchimp API
 Here are the screenshots of the signup page and the confirmation page
 <br>
 Sign Up page
-<br>
-![](news-letter/blob/master/signup%20ss.png)
-<br>
+![](news-letter/blob/master/success%20ss.png)
 confirmation page
-<br>
 ![](news-letter/blob/master/success%20ss.png)
